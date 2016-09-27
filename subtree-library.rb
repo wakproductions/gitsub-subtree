@@ -4,8 +4,8 @@ class MySubTree
     puts "hello from subtree"
   end
 
-  def update_from_subtree_project
-    puts "this is an update from the subtree project"
+  def update_from_parent_project
+    puts "this is an update from the parent project"
   end
 
 end
